@@ -13,7 +13,7 @@ gateway:
   helm_chart_name: "oci://ghcr.io/your-org/gateway-helm-chart"
   
   # Chart version to deploy
-  helm_chart_version: "0.1.0"
+  helm_chart_version: "1.2.0-rc"
   
   # Path to values.yaml file for Helm chart
   # This file will be used as-is without templating
